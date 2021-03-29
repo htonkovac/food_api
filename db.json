@@ -1,5 +1,94 @@
 {
-
-"food_search": [{"_mfp_id": 102280116301757, "_name": "Burgers", "_brand": "Burgers", "_verified": false, "_calories": 235.0, "_details": null, "_confirmations": null, "_serving_sizes": null}, {"_mfp_id": 204257838976813, "_name": "pork burgers", "_brand": "pork burgers", "_verified": false, "_calories": 260.0, "_details": null, "_confirmations": null, "_serving_sizes": null}, {"_mfp_id": 230510369263405, "_name": "Jalapeno Burgers", "_brand": "Bubba Burgers", "_verified": false, "_calories": 340.0, "_details": null, "_confirmations": null, "_serving_sizes": null}, {"_mfp_id": 63502721994349, "_name": "Spinach Burgers", "_brand": "Spinach Burgers", "_verified": false, "_calories": 158.0, "_details": null, "_confirmations": null, "_serving_sizes": null}, {"_mfp_id": 194765789179581, "_name": "kangaroo burgers", "_brand": "kangaroo burgers", "_verified": false, "_calories": 146.0, "_details": null, "_confirmations": null, "_serving_sizes": null}]
-"food_api": [{"description": "Burger", "brand_name": "bubba burger", "verified": true, "nutrition": {"sugar": 0.0, "fiber": 0.0, "saturated_fat": 15.0, "protein": 25.0, "energy": {"unit": "calories", "value": 420.0}, "carbohydrates": 0.0, "sodium": 85.0, "calcium": 0.0, "monounsaturated_fat": 0.0, "vitamin_c": 0.0, "cholesterol": 110.0, "fat": 35.0, "iron": 15.0, "polyunsaturated_fat": 0.0, "potassium": 0.0, "vitamin_a": 0.0, "trans_fat": 0.0}, "calories": 420.0, "confirmations": 75, "serving_sizes": [{"nutrition_multiplier": 1.0, "id": "194894618414253", "unit": "burger", "value": 1.0, "index": 0}]}]
+   "food_search":[
+      {
+         "_mfp_id":102280116301757,
+         "_name":"Burgers",
+         "_brand":"Burgers",
+         "_verified":false,
+         "_calories":235.0,
+         "_details":null,
+         "_confirmations":null,
+         "_serving_sizes":null
+      },
+      {
+         "_mfp_id":204257838976813,
+         "_name":"pork burgers",
+         "_brand":"pork burgers",
+         "_verified":false,
+         "_calories":260.0,
+         "_details":null,
+         "_confirmations":null,
+         "_serving_sizes":null
+      },
+      {
+         "_mfp_id":230510369263405,
+         "_name":"Jalapeno Burgers",
+         "_brand":"Bubba Burgers",
+         "_verified":false,
+         "_calories":340.0,
+         "_details":null,
+         "_confirmations":null,
+         "_serving_sizes":null
+      },
+      {
+         "_mfp_id":63502721994349,
+         "_name":"Spinach Burgers",
+         "_brand":"Spinach Burgers",
+         "_verified":false,
+         "_calories":158.0,
+         "_details":null,
+         "_confirmations":null,
+         "_serving_sizes":null
+      },
+      {
+         "_mfp_id":194765789179581,
+         "_name":"kangaroo burgers",
+         "_brand":"kangaroo burgers",
+         "_verified":false,
+         "_calories":146.0,
+         "_details":null,
+         "_confirmations":null,
+         "_serving_sizes":null
+      }
+   ],
+  "food_api":[
+      {
+         "description":"Burger",
+         "brand_name":"bubba burger",
+         "verified":true,
+         "nutrition":{
+            "sugar":0.0,
+            "fiber":0.0,
+            "saturated_fat":15.0,
+            "protein":25.0,
+            "energy":{
+               "unit":"calories",
+               "value":420.0
+            },
+            "carbohydrates":0.0,
+            "sodium":85.0,
+            "calcium":0.0,
+            "monounsaturated_fat":0.0,
+            "vitamin_c":0.0,
+            "cholesterol":110.0,
+            "fat":35.0,
+            "iron":15.0,
+            "polyunsaturated_fat":0.0,
+            "potassium":0.0,
+            "vitamin_a":0.0,
+            "trans_fat":0.0
+         },
+         "calories":420.0,
+         "confirmations":75,
+         "serving_sizes":[
+            {
+               "nutrition_multiplier":1.0,
+               "id":"194894618414253",
+               "unit":"burger",
+               "value":1.0,
+               "index":0
+            }
+         ]
+      }
+   ]
 }
