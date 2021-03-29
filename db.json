@@ -51,7 +51,7 @@
          "_serving_sizes":null
       }
    ],
-  "food_details":[
+  "food_details":
       {
          "description":"Burger",
          "brand_name":"bubba burger",
@@ -90,5 +90,5 @@
             }
          ]
       }
-   ]
+   
 }
